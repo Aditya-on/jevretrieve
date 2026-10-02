@@ -1,0 +1,44 @@
+# Core scientific computing
+numpy
+pandas
+scipy
+scikit-learn
+
+# Retrieval
+faiss-cpu
+rank-bm25
+sentence-transformers
+
+# Hugging Face datasets / evaluation
+datasets
+evaluate
+
+# NLP
+transformers
+tokenizers
+
+# API / networking
+requests
+httpx
+python-dotenv
+
+# Experiment management
+tqdm
+pyyaml
+
+# Evaluation / metrics
+nltk
+rouge-score
+
+# Testing
+pytest
+
+# Jupyter / analysis
+jupyter
+ipykernel
+matplotlib
+seaborn
+
+# Optional: progress / tables
+rich
+tabulate

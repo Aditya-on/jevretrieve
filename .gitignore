@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+
+datasets/
+results/
+
+*.log
+.DS_Store
